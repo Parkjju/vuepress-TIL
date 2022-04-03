@@ -101,5 +101,6 @@ module.exports = {
         },
       },
     ],
+    ['sitemap', { hostname: 'https://parkjju.github.io/vuepress-til' }],
   ],
 };
