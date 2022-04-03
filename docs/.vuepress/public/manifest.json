@@ -1,12 +1,12 @@
 {
   "name": "Parkjju's TIL",
   "short_name": "Parkjju's TIL",
-  "start_url": "/vuepress-til/",
+  "start_url": "/vue-TIL/",
   "icons": [
     {
       "src": "images/maskable_icon_x48.png",
       "type": "image/png",
-      "sizes": "48x48"
+      "sizes": "72x72"
     },
     {
       "src": "images/maskable_icon_x72.png",
